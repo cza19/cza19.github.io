@@ -501,6 +501,7 @@
 
   .recent {
     position: absolute;
+    text-align: center;
     width: 188px;
     height: 72px;
     left: calc(50% - 188px/2 - 117px);
@@ -521,6 +522,7 @@
     font-size: 60px;
     line-height: 72px;
     color: #3573EB;
+    text-align: center;
   }
 
   .soon {
